@@ -1,0 +1,30 @@
+html, body {
+  background: url(http://blog.airbnb.com/wp-content/uploads/2016/03/Standards-and-Expectations-blog-picture.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+form a {
+    margin-left: 5px;
+}
+
+li a {
+    text-decoration: none;
+    color: black;
+    cursor: pointer;
+}
+
+.add-post-btn, .delete-post-btn {
+    float: right;
+    margin-top: 50px;
+}
+
+.categories-right {
+    float: right;
+}
+
+h3, h6 {
+    clear: right;
+}
